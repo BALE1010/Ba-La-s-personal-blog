@@ -17,5 +17,4 @@ This is Ba Le's personal blog.
     </div>
 </body>
 </html>
-</div>
-[芭乐大王]（线条小狗.jpg）
+</div
