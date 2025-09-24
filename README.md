@@ -24,8 +24,8 @@ This is Ba Le's personal blog.
         <div class="blog-post">
             <h2>关于我</h2>
             <p>我是一名热爱分享的学习者，喜欢分享日常、生活中的点滴...</p >
+            < img src="线条小狗.png" alt="芭乐大王" style="width: 200px; height: auto;">
         </div>
     </div>
 </body>
 </html>
-< img src="线条小狗.png" alt="芭乐大王" style="width: 200px; height: auto;">
