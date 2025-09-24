@@ -4,17 +4,6 @@ This is Ba Le's personal blog.
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>芭乐的个人博客</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f5f5f5; }
-        .container { width: 800px; margin: 0 auto; background-color: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        h1 { color: #333; text-align: center; }
-        .blog-post { margin-bottom: 30px; border-bottom: 1px dashed #ccc; padding-bottom: 20px; }
-        .blog-post h2 { color: #555; }
-        .blog-post p { color: #666; line-height: 1.6; }
-    </style>
-</head>
-<body>
     <div class="container">
         <h1>芭乐的个人博客</h1>
         <div class="blog-post">
@@ -24,7 +13,6 @@ This is Ba Le's personal blog.
         <div class="blog-post">
             <h2>关于我</h2>
             <p>我是一名热爱分享的学习者，喜欢分享日常、生活中的点滴...</p >
-            < img src="线条小狗.png" alt="芭乐大王" style="width: 200px; height: auto;">
         </div>
     </div>
 </body>
